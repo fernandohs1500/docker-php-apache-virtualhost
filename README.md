@@ -1,2 +1,3 @@
-# docker-php-apache-virtualhost
-PHP + APACHE + VIRTUALHOST
+## Instructions
+
+- Run `docker-compose up -d` to start the development environment.
