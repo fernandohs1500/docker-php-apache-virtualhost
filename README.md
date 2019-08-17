@@ -15,8 +15,8 @@
 	2.5 - Verificar a versao -> docker-compose --version
 	
 3 - Parar apache da maquina local (Se tiver iniciado)
-
-3.1 - Entrar na pasta do projeto do docker clonado
+	
+	3.1 - Entrar na pasta do projeto do docker clonado
 
 4 - sudo docker-compose build
 
@@ -25,5 +25,6 @@
 6 - Clonar projetos licitanet_v2 e licitaweb_v2 para dentro da pasta web. 
 
 7 - Entrar dentro da pasta web dentro do projeto licitanet_v2 e licitaweb_v2 e rodar o composer install.
+
 7.1 - licitanet_v2 rodar -> chmod 777 var/logs/ 
 
